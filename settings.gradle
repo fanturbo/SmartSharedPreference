@@ -1,0 +1,3 @@
+rootProject.name='SharedPreferenceDemo'
+include ':app'
+include ':palfishsp'
